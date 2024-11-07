@@ -59,15 +59,7 @@ This is a React application designed with modern, attractive UI principles to sh
 
 ---
 
-### Components
 
-#### App.js
-- The main entry point for rendering the components (`Part1`, `Part2`, and `Part3`).
-- Wraps the components in a container with a gradient background and center alignment.
-  
-#### Part1, Part2, Part3
-- Each part displays specific content with a modern, clean layout.
-- Each part uses a `div` with padding, a shadow, rounded corners, and a subtle hover effect.
 
 
 ### Customization
