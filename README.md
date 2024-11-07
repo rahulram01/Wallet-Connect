@@ -22,9 +22,9 @@ This is a React application designed with modern, attractive UI principles to sh
 ├── src
 │   ├── App.js           # Main component containing all parts
 │   ├── components
-│   │   ├── Part1.jsx    # Part 1 component
-│   │   ├── Part2.jsx    # Part 2 component
-│   │   └── Part3.jsx    # Part 3 component
+│   │   ├── Connect.jsx    
+│   │   ├── WalletInfo.jsx  
+│   │ 
 │   └── index.css        # Global CSS file for styling
 ├── public
 │   └── index.html       # Root HTML file
