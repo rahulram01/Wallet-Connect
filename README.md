@@ -1,4 +1,4 @@
-Here’s a sample `README.md` file that explains your React app's structure, functionality, setup instructions, and styling. It includes details on each component and the design choices to make it look professional and polished.
+
 
 ---
 
