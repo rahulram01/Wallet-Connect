@@ -1,1 +1,0 @@
-npm i @web3modal/ethereum @web3modal/react wagmi viem web3
