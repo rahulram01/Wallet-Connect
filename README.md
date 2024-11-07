@@ -37,7 +37,7 @@ This is a React application designed with modern, attractive UI principles to sh
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/rahulram01/Wallet-Connect.git
    ```
 
 2. **Navigate to the project directory**:
